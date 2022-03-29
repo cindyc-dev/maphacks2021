@@ -1,4 +1,6 @@
 # 🛫 *Chroma World: Paint your beautiful travels!*
+> * 🏆 Won 'Lost Treasure Hack' at MapHacks, organised by MLH
+> * [Devpost](https://devpost.com/software/travel-in-colours)
 
 [![Thumbnail](https://raw.githubusercontent.com/chuahxinyu/maphacks2021/main/src/components/images/Chroma%20World%20copy.gif)](https://devpost.com/software/travel-in-colours)
 
