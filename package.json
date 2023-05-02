@@ -1,7 +1,8 @@
 {
-  "name": "client",
+  "name": "maphacks2021",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://chuahxinyu.github.io/maphacks2021",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.1",
     "@testing-library/react": "^12.1.2",
@@ -25,7 +26,8 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": [
@@ -46,6 +48,7 @@
     ]
   },
   "devDependencies": {
-    "file-loader": "^6.2.0"
+    "file-loader": "^6.2.0",
+    "gh-pages": "^5.0.0"
   }
 }
