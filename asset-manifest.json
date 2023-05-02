@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/maphacks2021/static/css/main.9fe0efc1.css",
+    "main.js": "/maphacks2021/static/js/main.080dc923.js",
+    "static/js/787.deb5f312.chunk.js": "/maphacks2021/static/js/787.deb5f312.chunk.js",
+    "static/media/CHROMA LD.svg": "/maphacks2021/static/media/CHROMA LD.b1a8c28c17c5ee44cd0b22ff38f58e11.svg",
+    "index.html": "/maphacks2021/index.html",
+    "main.9fe0efc1.css.map": "/maphacks2021/static/css/main.9fe0efc1.css.map",
+    "main.080dc923.js.map": "/maphacks2021/static/js/main.080dc923.js.map",
+    "787.deb5f312.chunk.js.map": "/maphacks2021/static/js/787.deb5f312.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9fe0efc1.css",
+    "static/js/main.080dc923.js"
+  ]
+}
